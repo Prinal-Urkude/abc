@@ -1,0 +1,27 @@
+INC000090111410 | Assigned Group : Security Operation | Severity : High
+
+REQ000009182380 - Req num
+
+
+
+INC000090112620 | Assigned Group : Security Operation | Severity : Medium
+
+
+*resolved*
+INC000090112448
+INC000090112620
+INC000090114569 
+INC000090115005 
+INC000090119214 
+
+
+109713 = send for block req.
+109718 = INC000090114569 | Assigned Group : Security Operation | Severity : Medium
+
+109720 = INC000090115005 | Assigned Group : Security Operation | Severity : Medium
+
+INC000090116841 | Assigned Group : Security Operation | Severity : Low
+
+109723 - kunal
+109725 - addr assigned - INC000090119214 | Assigned Group : Security Operation | Severity : Medium
+109726 - possible attack
